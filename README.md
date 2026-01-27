@@ -15,6 +15,7 @@ Durante o desenvolvimento do "api-restaurant", aprendi e apliquei vários concei
 ## 💻 Estrutura do Projeto
 SUPPORT-TICKETS-PROJECT hadirday_project 
 ├── node_modules/         # Dependências (ignorado pelo Git) 
+
 ├── src/                  # Código fonte do backend 
 ├── .gitignore 
 ├── knexfile              # Configurações do Query Builder para instruções SQL
