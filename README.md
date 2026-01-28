@@ -14,22 +14,35 @@ Durante o desenvolvimento do "api-restaurant", aprendi e apliquei vários concei
 
 ## 💻 Estrutura do Projeto
 SUPPORT-TICKETS-PROJECT hadirday_project 
+
 ├── node_modules/         # Dependências (ignorado pelo Git) 
+
 ├── src/                  # Código fonte do backend 
+
 ├── .gitignore 
+
 ├── knexfile              # Configurações do Query Builder para instruções SQL
+
 ├── package-lock.json
+
 ├── package.json
+
 ├── README.md
+
 ├── requests_insomia      # Requisições do Insomia para teste da API
+
 └── tsconfig.json         # Configurações do Typescript
 
 ## 💾 Pré Requisitos
+
 --> Node.js (versão [v22.17.0]) 
+
 --> npm ou yarn (Gerenciador de pacotes) 
+
 --> Insomnia ou Postman (Para testar os endpoints da API)
 
 ## 🚀 Como Rodar
+
 Esta API utiliza Node.js, TypeScript e Knex.js para gerenciar os pedidos do restaurante.
 
 --> Instalação Clone o repositório e instale as dependências.
@@ -53,7 +66,11 @@ Esta API utiliza Node.js, TypeScript e Knex.js para gerenciar os pedidos do rest
 Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 --> Node.js
+
 --> TypeScript
+
 --> Knex.js (Query Builder)
+
 --> SQL (Banco de Dados)
+
 --> GIT E Github
