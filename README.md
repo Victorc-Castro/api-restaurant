@@ -13,7 +13,7 @@ Durante o desenvolvimento do "api-restaurant", aprendi e apliquei vários concei
 --> 4. Manipulação de Banco de Dados: Prática com operações CRUD avançadas, filtros de busca e persistência de dados de forma escalável e organizada.
 
 ## 💻 Estrutura do Projeto
-SUPPORT-TICKETS-PROJECT hadirday_project 
+SUPPORT-TICKETS-PROJECT
 
 ├── node_modules/         # Dependências (ignorado pelo Git) 
 
