@@ -4,7 +4,7 @@
 
 This API was developed to manage a restaurant's order flow, allowing efficient control over products, customers, table availability, and order status, utilizing a robust architecture and static typing.
 
-## 👩‍💻 Key Learnings
+## 👩‍💻 What I Learned
 During the development of "api-restaurant," I applied several fundamental concepts for modern backend web projects. Key takeaways include:
 
 --> TypeScript Development: Implementing static typing throughout the application to ensure greater data flow security, efficient autocomplete, and a reduction in runtime errors.
