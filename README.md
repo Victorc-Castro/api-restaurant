@@ -1,5 +1,7 @@
 ## 🍽️ Restaurant Orders API
 
+[🇧🇷 Leia esta documentação em Português](./README.pt-BR.md)
+
 This API was developed to manage a restaurant's order flow, allowing efficient control over products, customers, table availability, and order status, utilizing a robust architecture and static typing.
 
 ## 👩‍💻 Key Learnings
