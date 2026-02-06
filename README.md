@@ -24,13 +24,15 @@ RESTAURANT-ORDERS-API
 
 ├── .gitignore 
 
+├── README.md 
+
+├── README.pt-BR.md 
+
 ├── knexfile # Query Builder configuration for SQL instructions 
 
 ├── package-lock.json
 
 ├── package.json 
-
-├── README.md 
 
 ├── requests_insomnia # Insomnia collection for API testing 
 
