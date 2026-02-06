@@ -1,4 +1,7 @@
 ## 🍽️ Restaurant Orders API
+
+[🇺🇸 Read this documentation in English](./README.md)
+
 Esta API foi desenvolvida para gerenciar o fluxo de pedidos de um restaurante, permitindo o controle de produtos, clientes, disponibilidade de mesas e o status de cada pedido de forma eficiente, utilizando uma arquitetura robusta e tipos estáticos.
 
 ## 👩‍💻 Aprendizados
@@ -21,13 +24,15 @@ SUPPORT-TICKETS-PROJECT
 
 ├── .gitignore 
 
+├── README.md
+
+├── README.pt-BR.md
+
 ├── knexfile              # Configurações do Query Builder para instruções SQL
 
 ├── package-lock.json
 
 ├── package.json
-
-├── README.md
 
 ├── requests_insomia      # Requisições do Insomia para teste da API
 
