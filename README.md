@@ -18,7 +18,7 @@ During the development of "api-restaurant," I applied several fundamental concep
 ## 💻 Project Structure
 RESTAURANT-ORDERS-API
 
-├── node_modules/ # Dependencies (ignored by Git) 
+├── node_modules/  # Dependencies (ignored by Git) 
 
 ├── src/ # Backend source code 
 
